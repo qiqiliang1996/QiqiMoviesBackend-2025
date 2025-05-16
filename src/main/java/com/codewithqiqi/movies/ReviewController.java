@@ -9,6 +9,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/v1/reviews")
+@CrossOrigin(origins = "https://movies-frontend2025-opv8kmx29-kikis-projects-c50f8a1b.vercel.app/")
 public class ReviewController {
     @Autowired
     private ReviewService service;
