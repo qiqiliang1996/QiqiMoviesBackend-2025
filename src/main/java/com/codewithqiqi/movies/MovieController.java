@@ -17,7 +17,7 @@ import java.util.Optional;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@CrossOrigin(origins = "https://movies-frontend2025-opv8kmx29-kikis-projects-c50f8a1b.vercel.app/")
+@CrossOrigin(origins = "https://movies-frontend2025-7hgx3e3ny-kikis-projects-c50f8a1b.vercel.app")
 public class MovieController {
 
     @Autowired
