@@ -1,0 +1,4 @@
+MONGO_CLUSTER:cluster0.cqcarz2.mongodb.net
+MONGO_DATABASE:movie-api-db
+MONGO_PASSWORD:23456781Abc
+MONGO_USER:qiqiliang15728
